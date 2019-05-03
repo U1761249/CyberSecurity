@@ -1,0 +1,11 @@
+F:\University\Year 2\CyberSecurity\CyberSecurity_CSV_Analysis\CyberSecurity_CSV_Analysis\bin\Debug\CyberSecurity_CSV_Analysis.exe.config
+F:\University\Year 2\CyberSecurity\CyberSecurity_CSV_Analysis\CyberSecurity_CSV_Analysis\bin\Debug\CyberSecurity_CSV_Analysis.exe
+F:\University\Year 2\CyberSecurity\CyberSecurity_CSV_Analysis\CyberSecurity_CSV_Analysis\bin\Debug\CyberSecurity_CSV_Analysis.pdb
+F:\University\Year 2\CyberSecurity\CyberSecurity_CSV_Analysis\CyberSecurity_CSV_Analysis\obj\Debug\CyberSecurity_CSV_Analysis.csprojAssemblyReference.cache
+F:\University\Year 2\CyberSecurity\CyberSecurity_CSV_Analysis\CyberSecurity_CSV_Analysis\obj\Debug\CyberSecurity_CSV_Analysis.SelectionForm.resources
+F:\University\Year 2\CyberSecurity\CyberSecurity_CSV_Analysis\CyberSecurity_CSV_Analysis\obj\Debug\CyberSecurity_CSV_Analysis.Main.resources
+F:\University\Year 2\CyberSecurity\CyberSecurity_CSV_Analysis\CyberSecurity_CSV_Analysis\obj\Debug\CyberSecurity_CSV_Analysis.Properties.Resources.resources
+F:\University\Year 2\CyberSecurity\CyberSecurity_CSV_Analysis\CyberSecurity_CSV_Analysis\obj\Debug\CyberSecurity_CSV_Analysis.csproj.GenerateResource.cache
+F:\University\Year 2\CyberSecurity\CyberSecurity_CSV_Analysis\CyberSecurity_CSV_Analysis\obj\Debug\CyberSecurity_CSV_Analysis.csproj.CoreCompileInputs.cache
+F:\University\Year 2\CyberSecurity\CyberSecurity_CSV_Analysis\CyberSecurity_CSV_Analysis\obj\Debug\CyberSecurity_CSV_Analysis.exe
+F:\University\Year 2\CyberSecurity\CyberSecurity_CSV_Analysis\CyberSecurity_CSV_Analysis\obj\Debug\CyberSecurity_CSV_Analysis.pdb

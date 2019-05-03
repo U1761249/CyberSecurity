@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyberSecurity_CSV_Analysis", "CyberSecurity_CSV_Analysis\CyberSecurity_CSV_Analysis.csproj", "{2919D71C-245C-4CBC-BC28-97493DF80EB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyberSecurity_CSV_AnalysisTests", "CyberSecurity_CSV_AnalysisTests\CyberSecurity_CSV_AnalysisTests.csproj", "{50B6896A-D100-48E0-9412-876FFC97CAC6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2919D71C-245C-4CBC-BC28-97493DF80EB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2919D71C-245C-4CBC-BC28-97493DF80EB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2919D71C-245C-4CBC-BC28-97493DF80EB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2919D71C-245C-4CBC-BC28-97493DF80EB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50B6896A-D100-48E0-9412-876FFC97CAC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B6896A-D100-48E0-9412-876FFC97CAC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B6896A-D100-48E0-9412-876FFC97CAC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B6896A-D100-48E0-9412-876FFC97CAC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04FEF031-7E1A-4D1B-84B8-A016C2EC8786}
+	EndGlobalSection
+EndGlobal
